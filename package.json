@@ -1,0 +1,24 @@
+{
+  "name": "google-analytics-exporter",
+  "version": "1.0.0",
+  "description": "A server to export Google Analytics data",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yourusername/yourrepository.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yourusername/yourrepository/issues"
+  },
+  "homepage": "https://github.com/yourusername/yourrepository#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "googleapis": "^73.0.0",
+    "fs": "0.0.1-security"
+  }
+}
